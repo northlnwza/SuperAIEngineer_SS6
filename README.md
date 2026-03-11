@@ -1,7 +1,8 @@
 # SuperAIEngineer_SS6
 
-NORTH PROGRESS
+[Your Name]'s PROGRESS
 
+✅
 1.Python Programming [Fundamental]
 
 2.Google Colab [Fundamental]
@@ -20,7 +21,7 @@ NORTH PROGRESS
 
 9.Neural Network and Deep Learning [Fundamental]
 
-10.Image Processing [Fundamental] ✅
+10.Image Processing [Fundamental] 
 
 11.Computer Vision [Fundamental]
 
