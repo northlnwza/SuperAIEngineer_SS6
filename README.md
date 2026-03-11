@@ -2,7 +2,7 @@
 
 A comprehensive learning tracker for the Super AI Engineer SS6 bootcamp, documenting progress across fundamental AI and machine learning topics.
 
-## North's Progress
+## Ball's Progress
 
 | # | Topic | Status |
 |---|-------|--------|
