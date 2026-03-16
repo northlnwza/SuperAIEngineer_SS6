@@ -2,6 +2,8 @@
 
 A comprehensive learning tracker for the Super AI Engineer SS6 bootcamp, documenting progress across fundamental AI and machine learning topics.
 
+MiniHack1 : https://colab.research.google.com/drive/1eeUgyqclFp4V61MqWtURsAgE_bEL1qF8?usp=sharing
+
 ## North's Progress
 
 | # | Topic | Status |
