@@ -1,0 +1,3744 @@
+{
+  "constituency_10_1": {
+    "doc_id": "constituency_10_1",
+    "expected_rows": 18,
+    "matched_rows": 18,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 77075,
+    "extracted_total_votes": 77075,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_10": {
+    "doc_id": "constituency_10_10",
+    "expected_rows": 16,
+    "matched_rows": 16,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 91913,
+    "extracted_total_votes": 91913,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_11": {
+    "doc_id": "constituency_10_11",
+    "expected_rows": 18,
+    "matched_rows": 18,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 94993,
+    "extracted_total_votes": 94993,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_12": {
+    "doc_id": "constituency_10_12",
+    "expected_rows": 16,
+    "matched_rows": 16,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 103439,
+    "extracted_total_votes": 103439,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_13": {
+    "doc_id": "constituency_10_13",
+    "expected_rows": 15,
+    "matched_rows": 15,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90508,
+    "extracted_total_votes": 90508,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_14": {
+    "doc_id": "constituency_10_14",
+    "expected_rows": 16,
+    "matched_rows": 16,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 93467,
+    "extracted_total_votes": 93467,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_16": {
+    "doc_id": "constituency_10_16",
+    "expected_rows": 15,
+    "matched_rows": 13,
+    "missing_row_nums": [
+      8,
+      15
+    ],
+    "missing_parties": [
+      "ไทยก้าวใหม่",
+      "ปวงชนไทย"
+    ],
+    "expected_total_votes": 94218,
+    "extracted_total_votes": 92955,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_10_17": {
+    "doc_id": "constituency_10_17",
+    "expected_rows": 15,
+    "matched_rows": 15,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 71720,
+    "extracted_total_votes": 71720,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_18": {
+    "doc_id": "constituency_10_18",
+    "expected_rows": 18,
+    "matched_rows": 18,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80204,
+    "extracted_total_votes": 80204,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_19": {
+    "doc_id": "constituency_10_19",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92191,
+    "extracted_total_votes": 92191,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_2": {
+    "doc_id": "constituency_10_2",
+    "expected_rows": 15,
+    "matched_rows": 15,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83874,
+    "extracted_total_votes": 83874,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_20": {
+    "doc_id": "constituency_10_20",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 87486,
+    "extracted_total_votes": 87486,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_21": {
+    "doc_id": "constituency_10_21",
+    "expected_rows": 15,
+    "matched_rows": 15,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96859,
+    "extracted_total_votes": 91366,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_10_22": {
+    "doc_id": "constituency_10_22",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85558,
+    "extracted_total_votes": 85558,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_23": {
+    "doc_id": "constituency_10_23",
+    "expected_rows": 18,
+    "matched_rows": 16,
+    "missing_row_nums": [
+      6,
+      14
+    ],
+    "missing_parties": [
+      "พลังประชารัฐ",
+      "รักชาติ"
+    ],
+    "expected_total_votes": 94233,
+    "extracted_total_votes": 92436,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_10_24": {
+    "doc_id": "constituency_10_24",
+    "expected_rows": 13,
+    "matched_rows": 13,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89356,
+    "extracted_total_votes": 89356,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_25": {
+    "doc_id": "constituency_10_25",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84112,
+    "extracted_total_votes": 84112,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_26": {
+    "doc_id": "constituency_10_26",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97121,
+    "extracted_total_votes": 97121,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_27": {
+    "doc_id": "constituency_10_27",
+    "expected_rows": 12,
+    "matched_rows": 12,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90381,
+    "extracted_total_votes": 90381,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_28": {
+    "doc_id": "constituency_10_28",
+    "expected_rows": 13,
+    "matched_rows": 13,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 91560,
+    "extracted_total_votes": 91560,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_29": {
+    "doc_id": "constituency_10_29",
+    "expected_rows": 16,
+    "matched_rows": 16,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 96248,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_10_3": {
+    "doc_id": "constituency_10_3",
+    "expected_rows": 14,
+    "matched_rows": 12,
+    "missing_row_nums": [
+      12,
+      14
+    ],
+    "missing_parties": [
+      "รักชาติ",
+      "โอกาสใหม่"
+    ],
+    "expected_total_votes": 76775,
+    "extracted_total_votes": 76164,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_10_30": {
+    "doc_id": "constituency_10_30",
+    "expected_rows": 19,
+    "matched_rows": 19,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92533,
+    "extracted_total_votes": 92533,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_31": {
+    "doc_id": "constituency_10_31",
+    "expected_rows": 16,
+    "matched_rows": 14,
+    "missing_row_nums": [
+      8,
+      16
+    ],
+    "missing_parties": [
+      "ไทยธรรม",
+      "รักชาติ"
+    ],
+    "expected_total_votes": 98491,
+    "extracted_total_votes": 97541,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_10_32": {
+    "doc_id": "constituency_10_32",
+    "expected_rows": 16,
+    "matched_rows": 16,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85631,
+    "extracted_total_votes": 85631,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_33": {
+    "doc_id": "constituency_10_33",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 94416,
+    "extracted_total_votes": 94416,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_4": {
+    "doc_id": "constituency_10_4",
+    "expected_rows": 13,
+    "matched_rows": 13,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 77982,
+    "extracted_total_votes": 77982,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_5": {
+    "doc_id": "constituency_10_5",
+    "expected_rows": 16,
+    "matched_rows": 13,
+    "missing_row_nums": [
+      9,
+      11,
+      15
+    ],
+    "missing_parties": [
+      "รักชาติ",
+      "ปวงชนไทย",
+      "วิชชั่นใหม่"
+    ],
+    "expected_total_votes": 90792,
+    "extracted_total_votes": 89957,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_10_6": {
+    "doc_id": "constituency_10_6",
+    "expected_rows": 16,
+    "matched_rows": 14,
+    "missing_row_nums": [
+      9,
+      12
+    ],
+    "missing_parties": [
+      "ไทยสร้างไทย",
+      "รักชาติ"
+    ],
+    "expected_total_votes": 94391,
+    "extracted_total_votes": 94391,
+    "total_match": true,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_10_7": {
+    "doc_id": "constituency_10_7",
+    "expected_rows": 13,
+    "matched_rows": 13,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85181,
+    "extracted_total_votes": 85181,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_8": {
+    "doc_id": "constituency_10_8",
+    "expected_rows": 16,
+    "matched_rows": 16,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96755,
+    "extracted_total_votes": 96755,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_10_9": {
+    "doc_id": "constituency_10_9",
+    "expected_rows": 14,
+    "matched_rows": 14,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95111,
+    "extracted_total_votes": 95111,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_1": {
+    "doc_id": "constituency_11_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 87879,
+    "extracted_total_votes": 87879,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_2": {
+    "doc_id": "constituency_11_2",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89135,
+    "extracted_total_votes": 89135,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_3": {
+    "doc_id": "constituency_11_3",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88488,
+    "extracted_total_votes": 88488,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_4": {
+    "doc_id": "constituency_11_4",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92620,
+    "extracted_total_votes": 92620,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_5": {
+    "doc_id": "constituency_11_5",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100245,
+    "extracted_total_votes": 100245,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_6": {
+    "doc_id": "constituency_11_6",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84514,
+    "extracted_total_votes": 84514,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_11_7": {
+    "doc_id": "constituency_11_7",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 97691,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_11_8": {
+    "doc_id": "constituency_11_8",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 103041,
+    "extracted_total_votes": 103041,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_12_1": {
+    "doc_id": "constituency_12_1",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 101511,
+    "extracted_total_votes": 93883,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_12_2": {
+    "doc_id": "constituency_12_2",
+    "expected_rows": 12,
+    "matched_rows": 12,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 81123,
+    "extracted_total_votes": 81123,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_12_3": {
+    "doc_id": "constituency_12_3",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96521,
+    "extracted_total_votes": 96521,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_12_4": {
+    "doc_id": "constituency_12_4",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85203,
+    "extracted_total_votes": 85203,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_12_5": {
+    "doc_id": "constituency_12_5",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96107,
+    "extracted_total_votes": 96107,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_12_6": {
+    "doc_id": "constituency_12_6",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 99026,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_12_7": {
+    "doc_id": "constituency_12_7",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 93993,
+    "extracted_total_votes": 93993,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_12_8": {
+    "doc_id": "constituency_12_8",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88860,
+    "extracted_total_votes": 88860,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_1": {
+    "doc_id": "constituency_13_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95201,
+    "extracted_total_votes": 95201,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_2": {
+    "doc_id": "constituency_13_2",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97032,
+    "extracted_total_votes": 97032,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_3": {
+    "doc_id": "constituency_13_3",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84153,
+    "extracted_total_votes": 84153,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_4": {
+    "doc_id": "constituency_13_4",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90836,
+    "extracted_total_votes": 90836,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_5": {
+    "doc_id": "constituency_13_5",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 82519,
+    "extracted_total_votes": 82519,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_6": {
+    "doc_id": "constituency_13_6",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84382,
+    "extracted_total_votes": 84382,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_7": {
+    "doc_id": "constituency_13_7",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 86075,
+    "extracted_total_votes": 86075,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_13_8": {
+    "doc_id": "constituency_13_8",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 3525,
+    "extracted_total_votes": 85335,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_14_1": {
+    "doc_id": "constituency_14_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97550,
+    "extracted_total_votes": 97550,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_14_2": {
+    "doc_id": "constituency_14_2",
+    "expected_rows": 17,
+    "matched_rows": 17,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 94398,
+    "extracted_total_votes": 94398,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_14_3": {
+    "doc_id": "constituency_14_3",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100331,
+    "extracted_total_votes": 100331,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_14_4": {
+    "doc_id": "constituency_14_4",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 106913,
+    "extracted_total_votes": 106913,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_14_5": {
+    "doc_id": "constituency_14_5",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 98383,
+    "extracted_total_votes": 98383,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_15_1": {
+    "doc_id": "constituency_15_1",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79775,
+    "extracted_total_votes": 79775,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_15_2": {
+    "doc_id": "constituency_15_2",
+    "expected_rows": 4,
+    "matched_rows": 4,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79838,
+    "extracted_total_votes": 79838,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_16_1": {
+    "doc_id": "constituency_16_1",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100109,
+    "extracted_total_votes": 100109,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_16_2": {
+    "doc_id": "constituency_16_2",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 110045,
+    "extracted_total_votes": 110045,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_16_3": {
+    "doc_id": "constituency_16_3",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 99225,
+    "extracted_total_votes": 99225,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_16_4": {
+    "doc_id": "constituency_16_4",
+    "expected_rows": 8,
+    "matched_rows": 6,
+    "missing_row_nums": [
+      3,
+      6
+    ],
+    "missing_parties": [
+      "ประชาชน",
+      "รวมไทยสร้างชาติ"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 106701,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_17_1": {
+    "doc_id": "constituency_17_1",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 114708,
+    "extracted_total_votes": 114708,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_18_1": {
+    "doc_id": "constituency_18_1",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80770,
+    "extracted_total_votes": 80770,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_18_2": {
+    "doc_id": "constituency_18_2",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84489,
+    "extracted_total_votes": 84484,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_19_1": {
+    "doc_id": "constituency_19_1",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 88053,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_19_2": {
+    "doc_id": "constituency_19_2",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 99146,
+    "extracted_total_votes": 99146,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_19_3": {
+    "doc_id": "constituency_19_3",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 91451,
+    "extracted_total_votes": 91451,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_19_4": {
+    "doc_id": "constituency_19_4",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 4340,
+    "extracted_total_votes": 90056,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_20_1": {
+    "doc_id": "constituency_20_1",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97585,
+    "extracted_total_votes": 97585,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_20_10": {
+    "doc_id": "constituency_20_10",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 82457,
+    "extracted_total_votes": 82457,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_20_2": {
+    "doc_id": "constituency_20_2",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 78825,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_20_3": {
+    "doc_id": "constituency_20_3",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90301,
+    "extracted_total_votes": 90301,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_20_4": {
+    "doc_id": "constituency_20_4",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80770,
+    "extracted_total_votes": 80770,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_20_5": {
+    "doc_id": "constituency_20_5",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95514,
+    "extracted_total_votes": 95514,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_20_6": {
+    "doc_id": "constituency_20_6",
+    "expected_rows": 12,
+    "matched_rows": 10,
+    "missing_row_nums": [
+      5,
+      12
+    ],
+    "missing_parties": [
+      "ไทยภักดี",
+      "คลองไทย"
+    ],
+    "expected_total_votes": 89423,
+    "extracted_total_votes": 87730,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_20_7": {
+    "doc_id": "constituency_20_7",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 82754,
+    "extracted_total_votes": 82754,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_20_8": {
+    "doc_id": "constituency_20_8",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 3052,
+    "extracted_total_votes": 86994,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_20_9": {
+    "doc_id": "constituency_20_9",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 62409,
+    "extracted_total_votes": 62409,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_21_1": {
+    "doc_id": "constituency_21_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85091,
+    "extracted_total_votes": 85091,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_21_2": {
+    "doc_id": "constituency_21_2",
+    "expected_rows": 5,
+    "matched_rows": 5,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 68551,
+    "extracted_total_votes": 68551,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_21_3": {
+    "doc_id": "constituency_21_3",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 76463,
+    "extracted_total_votes": 76463,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_21_4": {
+    "doc_id": "constituency_21_4",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 87526,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_21_5": {
+    "doc_id": "constituency_21_5",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 81289,
+    "extracted_total_votes": 81289,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_22_1": {
+    "doc_id": "constituency_22_1",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100866,
+    "extracted_total_votes": 100866,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_22_2": {
+    "doc_id": "constituency_22_2",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 91807,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_22_3": {
+    "doc_id": "constituency_22_3",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 91176,
+    "extracted_total_votes": 91176,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_23_1": {
+    "doc_id": "constituency_23_1",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 4562,
+    "extracted_total_votes": 115576,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_24_1": {
+    "doc_id": "constituency_24_1",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96004,
+    "extracted_total_votes": 96004,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_24_2": {
+    "doc_id": "constituency_24_2",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 109828,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_24_3": {
+    "doc_id": "constituency_24_3",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 93753,
+    "extracted_total_votes": 94053,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_24_4": {
+    "doc_id": "constituency_24_4",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 112107,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_25_1": {
+    "doc_id": "constituency_25_1",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 82923,
+    "extracted_total_votes": 82923,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_25_3": {
+    "doc_id": "constituency_25_3",
+    "expected_rows": 5,
+    "matched_rows": 5,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84347,
+    "extracted_total_votes": 84347,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_26_1": {
+    "doc_id": "constituency_26_1",
+    "expected_rows": 5,
+    "matched_rows": 5,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 76781,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_26_2": {
+    "doc_id": "constituency_26_2",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80797,
+    "extracted_total_votes": 80797,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_27_1": {
+    "doc_id": "constituency_27_1",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89613,
+    "extracted_total_votes": 89613,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_27_2": {
+    "doc_id": "constituency_27_2",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89351,
+    "extracted_total_votes": 89351,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_27_3": {
+    "doc_id": "constituency_27_3",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92868,
+    "extracted_total_votes": 92868,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_1": {
+    "doc_id": "constituency_30_1",
+    "expected_rows": 13,
+    "matched_rows": 13,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80985,
+    "extracted_total_votes": 80985,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_10": {
+    "doc_id": "constituency_30_10",
+    "expected_rows": 8,
+    "matched_rows": 1,
+    "missing_row_nums": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missing_parties": [
+      "เพื่อไทย",
+      "ประชาชน",
+      "โอกาสใหม่",
+      "เศรษฐกิจ",
+      "กล้าธรรม",
+      "ประชาธิปัตย์",
+      "พลังประชารัฐ"
+    ],
+    "expected_total_votes": 112031,
+    "extracted_total_votes": 43185,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_30_11": {
+    "doc_id": "constituency_30_11",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85016,
+    "extracted_total_votes": 85016,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_12": {
+    "doc_id": "constituency_30_12",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 86006,
+    "extracted_total_votes": 86006,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_13": {
+    "doc_id": "constituency_30_13",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 66505,
+    "extracted_total_votes": 66505,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_14": {
+    "doc_id": "constituency_30_14",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 73189,
+    "extracted_total_votes": 73189,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_15": {
+    "doc_id": "constituency_30_15",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 2835,
+    "extracted_total_votes": 95199,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_30_16": {
+    "doc_id": "constituency_30_16",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 2993,
+    "extracted_total_votes": 167032,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_30_2": {
+    "doc_id": "constituency_30_2",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96710,
+    "extracted_total_votes": 96710,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_3": {
+    "doc_id": "constituency_30_3",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 3622,
+    "extracted_total_votes": 90300,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_30_4": {
+    "doc_id": "constituency_30_4",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84302,
+    "extracted_total_votes": 84302,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_5": {
+    "doc_id": "constituency_30_5",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 87644,
+    "extracted_total_votes": 87644,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_6": {
+    "doc_id": "constituency_30_6",
+    "expected_rows": 12,
+    "matched_rows": 12,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 81811,
+    "extracted_total_votes": 81811,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_7": {
+    "doc_id": "constituency_30_7",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 76958,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_30_8": {
+    "doc_id": "constituency_30_8",
+    "expected_rows": 5,
+    "matched_rows": 5,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79521,
+    "extracted_total_votes": 79521,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_30_9": {
+    "doc_id": "constituency_30_9",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92485,
+    "extracted_total_votes": 87635,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_31_1": {
+    "doc_id": "constituency_31_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78889,
+    "extracted_total_votes": 78889,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_10": {
+    "doc_id": "constituency_31_10",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 69176,
+    "extracted_total_votes": 69176,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_2": {
+    "doc_id": "constituency_31_2",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 75055,
+    "extracted_total_votes": 75055,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_3": {
+    "doc_id": "constituency_31_3",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 72175,
+    "extracted_total_votes": 72175,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_4": {
+    "doc_id": "constituency_31_4",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 69445,
+    "extracted_total_votes": 69445,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_5": {
+    "doc_id": "constituency_31_5",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 76650,
+    "extracted_total_votes": 76650,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_6": {
+    "doc_id": "constituency_31_6",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 73608,
+    "extracted_total_votes": 73608,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_7": {
+    "doc_id": "constituency_31_7",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 74537,
+    "extracted_total_votes": 74537,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_8": {
+    "doc_id": "constituency_31_8",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78428,
+    "extracted_total_votes": 78428,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_31_9": {
+    "doc_id": "constituency_31_9",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 73695,
+    "extracted_total_votes": 73695,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_1": {
+    "doc_id": "constituency_32_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85981,
+    "extracted_total_votes": 85981,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_2": {
+    "doc_id": "constituency_32_2",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89433,
+    "extracted_total_votes": 89433,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_3": {
+    "doc_id": "constituency_32_3",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79639,
+    "extracted_total_votes": 79639,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_4": {
+    "doc_id": "constituency_32_4",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80530,
+    "extracted_total_votes": 80530,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_5": {
+    "doc_id": "constituency_32_5",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79444,
+    "extracted_total_votes": 79444,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_6": {
+    "doc_id": "constituency_32_6",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 76550,
+    "extracted_total_votes": 76550,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_32_7": {
+    "doc_id": "constituency_32_7",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84881,
+    "extracted_total_votes": 84840,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "constituency_32_8": {
+    "doc_id": "constituency_32_8",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78919,
+    "extracted_total_votes": 78919,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_1": {
+    "doc_id": "constituency_33_1",
+    "expected_rows": 9,
+    "matched_rows": 8,
+    "missing_row_nums": [
+      4
+    ],
+    "missing_parties": [
+      "ปวงชนไทย"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 94228,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_33_2": {
+    "doc_id": "constituency_33_2",
+    "expected_rows": 11,
+    "matched_rows": 11,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80721,
+    "extracted_total_votes": 80721,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_3": {
+    "doc_id": "constituency_33_3",
+    "expected_rows": 10,
+    "matched_rows": 9,
+    "missing_row_nums": [
+      8
+    ],
+    "missing_parties": [
+      "ประชาธิปไตยใหม่"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 75545,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "constituency_33_4": {
+    "doc_id": "constituency_33_4",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 77864,
+    "extracted_total_votes": 77864,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_5": {
+    "doc_id": "constituency_33_5",
+    "expected_rows": 9,
+    "matched_rows": 9,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79671,
+    "extracted_total_votes": 79671,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_6": {
+    "doc_id": "constituency_33_6",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79063,
+    "extracted_total_votes": 79063,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_7": {
+    "doc_id": "constituency_33_7",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78631,
+    "extracted_total_votes": 78631,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_8": {
+    "doc_id": "constituency_33_8",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84175,
+    "extracted_total_votes": 84175,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_33_9": {
+    "doc_id": "constituency_33_9",
+    "expected_rows": 10,
+    "matched_rows": 10,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88566,
+    "extracted_total_votes": 88566,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_34_1": {
+    "doc_id": "constituency_34_1",
+    "expected_rows": 8,
+    "matched_rows": 8,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 87991,
+    "extracted_total_votes": 87991,
+    "total_match": true,
+    "status": "ok"
+  },
+  "constituency_34_10": {
+    "doc_id": "constituency_34_10",
+    "expected_rows": 6,
+    "matched_rows": 6,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 85556,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "constituency_34_11": {
+    "doc_id": "constituency_34_11",
+    "expected_rows": 7,
+    "matched_rows": 7,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80032,
+    "extracted_total_votes": 80032,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_1": {
+    "doc_id": "party_list_10_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78517,
+    "extracted_total_votes": 78517,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_10": {
+    "doc_id": "party_list_10_10",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 94890,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_10_11": {
+    "doc_id": "party_list_10_11",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96112,
+    "extracted_total_votes": 96112,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_12": {
+    "doc_id": "party_list_10_12",
+    "expected_rows": 57,
+    "matched_rows": 53,
+    "missing_row_nums": [
+      33,
+      34,
+      56,
+      57
+    ],
+    "missing_parties": [
+      "ประชาชาติ",
+      "สร้างอนาคตไทย",
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 111029,
+    "extracted_total_votes": 106567,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_10_13": {
+    "doc_id": "party_list_10_13",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      56,
+      57
+    ],
+    "missing_parties": [
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 93463,
+    "extracted_total_votes": 91853,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_10_14": {
+    "doc_id": "party_list_10_14",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95365,
+    "extracted_total_votes": 95365,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_16": {
+    "doc_id": "party_list_10_16",
+    "expected_rows": 57,
+    "matched_rows": 54,
+    "missing_row_nums": [
+      32,
+      33,
+      34
+    ],
+    "missing_parties": [
+      "ครูไทยเพื่อประชาชน",
+      "ประชาชาติ",
+      "สร้างอนาคตไทย"
+    ],
+    "expected_total_votes": 96550,
+    "extracted_total_votes": 94368,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_10_17": {
+    "doc_id": "party_list_10_17",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 73773,
+    "extracted_total_votes": 73773,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_18": {
+    "doc_id": "party_list_10_18",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 82064,
+    "extracted_total_votes": 82064,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_19": {
+    "doc_id": "party_list_10_19",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95000,
+    "extracted_total_votes": 93857,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_2": {
+    "doc_id": "party_list_10_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 86220,
+    "extracted_total_votes": 86124,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_20": {
+    "doc_id": "party_list_10_20",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83120,
+    "extracted_total_votes": 83120,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_21": {
+    "doc_id": "party_list_10_21",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92748,
+    "extracted_total_votes": 92789,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_22": {
+    "doc_id": "party_list_10_22",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88283,
+    "extracted_total_votes": 88283,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_23": {
+    "doc_id": "party_list_10_23",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96512,
+    "extracted_total_votes": 96395,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_24": {
+    "doc_id": "party_list_10_24",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96919,
+    "extracted_total_votes": 92221,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_25": {
+    "doc_id": "party_list_10_25",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85329,
+    "extracted_total_votes": 85119,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_26": {
+    "doc_id": "party_list_10_26",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97121,
+    "extracted_total_votes": 92252,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_27": {
+    "doc_id": "party_list_10_27",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 183742,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_10_28": {
+    "doc_id": "party_list_10_28",
+    "expected_rows": 56,
+    "matched_rows": 56,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 94612,
+    "extracted_total_votes": 95874,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_29": {
+    "doc_id": "party_list_10_29",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      33,
+      34
+    ],
+    "missing_parties": [
+      "ประชาชาติ",
+      "สร้างอนาคตไทย"
+    ],
+    "expected_total_votes": 98610,
+    "extracted_total_votes": 98589,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_10_3": {
+    "doc_id": "party_list_10_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 82361,
+    "extracted_total_votes": 78839,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_30": {
+    "doc_id": "party_list_10_30",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 94745,
+    "extracted_total_votes": 103990,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_31": {
+    "doc_id": "party_list_10_31",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 101855,
+    "extracted_total_votes": 112940,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_32": {
+    "doc_id": "party_list_10_32",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88915,
+    "extracted_total_votes": 89443,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_33": {
+    "doc_id": "party_list_10_33",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97764,
+    "extracted_total_votes": 97764,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_4": {
+    "doc_id": "party_list_10_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79302,
+    "extracted_total_votes": 79333,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_5": {
+    "doc_id": "party_list_10_5",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 1462,
+    "extracted_total_votes": 93581,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_10_6": {
+    "doc_id": "party_list_10_6",
+    "expected_rows": 57,
+    "matched_rows": 52,
+    "missing_row_nums": [
+      40,
+      41,
+      49,
+      56,
+      57
+    ],
+    "missing_parties": [
+      "ไทยธรรม",
+      "แผ่นดินธรรม",
+      "ไทยก้าวใหม่",
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 96499,
+    "extracted_total_votes": 93487,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_10_7": {
+    "doc_id": "party_list_10_7",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      39,
+      40
+    ],
+    "missing_parties": [
+      "กรีน",
+      "ไทยธรรม"
+    ],
+    "expected_total_votes": 88053,
+    "extracted_total_votes": 87634,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_10_8": {
+    "doc_id": "party_list_10_8",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100236,
+    "extracted_total_votes": 100236,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_10_9": {
+    "doc_id": "party_list_10_9",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 98361,
+    "extracted_total_votes": 98361,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_11_1": {
+    "doc_id": "party_list_11_1",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      54,
+      57
+    ],
+    "missing_parties": [
+      "ความหวังใหม่",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 90939,
+    "extracted_total_votes": 90930,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_11_2": {
+    "doc_id": "party_list_11_2",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      39,
+      40
+    ],
+    "missing_parties": [
+      "กรีน",
+      "ไทยธรรม"
+    ],
+    "expected_total_votes": 89972,
+    "extracted_total_votes": 89879,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_11_3": {
+    "doc_id": "party_list_11_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90899,
+    "extracted_total_votes": 90565,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_11_4": {
+    "doc_id": "party_list_11_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95537,
+    "extracted_total_votes": 95736,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_11_5": {
+    "doc_id": "party_list_11_5",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      43
+    ],
+    "missing_parties": [
+      "พลังประชารัฐ"
+    ],
+    "expected_total_votes": 104952,
+    "extracted_total_votes": 105631,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_11_6": {
+    "doc_id": "party_list_11_6",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      56,
+      57
+    ],
+    "missing_parties": [
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 85109,
+    "extracted_total_votes": 85104,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_11_7": {
+    "doc_id": "party_list_11_7",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 98264,
+    "extracted_total_votes": 98264,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_11_8": {
+    "doc_id": "party_list_11_8",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      42
+    ],
+    "missing_parties": [
+      "กล้าธรรม"
+    ],
+    "expected_total_votes": 104242,
+    "extracted_total_votes": 105901,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_12_1": {
+    "doc_id": "party_list_12_1",
+    "expected_rows": 57,
+    "matched_rows": 53,
+    "missing_row_nums": [
+      50,
+      54,
+      56,
+      57
+    ],
+    "missing_parties": [
+      "ประชาอาสาชาติ",
+      "ความหวังใหม่",
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 96610,
+    "extracted_total_votes": 96564,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_12_2": {
+    "doc_id": "party_list_12_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83688,
+    "extracted_total_votes": 82108,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_12_3": {
+    "doc_id": "party_list_12_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100706,
+    "extracted_total_votes": 101525,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_12_4": {
+    "doc_id": "party_list_12_4",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      33,
+      34
+    ],
+    "missing_parties": [
+      "ประชาชาติ",
+      "สร้างอนาคตไทย"
+    ],
+    "expected_total_votes": 1706,
+    "extracted_total_votes": 87948,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_12_5": {
+    "doc_id": "party_list_12_5",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      56,
+      57
+    ],
+    "missing_parties": [
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 104631,
+    "extracted_total_votes": 98261,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_12_6": {
+    "doc_id": "party_list_12_6",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 103361,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_12_7": {
+    "doc_id": "party_list_12_7",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96807,
+    "extracted_total_votes": 96807,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_12_8": {
+    "doc_id": "party_list_12_8",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90783,
+    "extracted_total_votes": 90783,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_13_1": {
+    "doc_id": "party_list_13_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 95730,
+    "extracted_total_votes": 95730,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_13_2": {
+    "doc_id": "party_list_13_2",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      57
+    ],
+    "missing_parties": [
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 96562,
+    "extracted_total_votes": 136319,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_13_3": {
+    "doc_id": "party_list_13_3",
+    "expected_rows": 58,
+    "matched_rows": 58,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88780,
+    "extracted_total_votes": 88829,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_13_4": {
+    "doc_id": "party_list_13_4",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      24,
+      25
+    ],
+    "missing_parties": [
+      "วิชชั่นใหม่",
+      "เพื่อชีวิตใหม่"
+    ],
+    "expected_total_votes": 93513,
+    "extracted_total_votes": 91230,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_13_5": {
+    "doc_id": "party_list_13_5",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85017,
+    "extracted_total_votes": 85058,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_13_6": {
+    "doc_id": "party_list_13_6",
+    "expected_rows": 57,
+    "matched_rows": 54,
+    "missing_row_nums": [
+      52,
+      55,
+      57
+    ],
+    "missing_parties": [
+      "เครือข่ายชาวนาแห่งประเทศไทย",
+      "ไทยรวมไทย",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 87165,
+    "extracted_total_votes": 86777,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_13_7": {
+    "doc_id": "party_list_13_7",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 86555,
+    "extracted_total_votes": 86536,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_13_8": {
+    "doc_id": "party_list_13_8",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      29
+    ],
+    "missing_parties": [
+      "ไทยภักดี"
+    ],
+    "expected_total_votes": 86370,
+    "extracted_total_votes": 281256,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_14_1": {
+    "doc_id": "party_list_14_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97460,
+    "extracted_total_votes": 97279,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_14_2": {
+    "doc_id": "party_list_14_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92649,
+    "extracted_total_votes": 92989,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_14_3": {
+    "doc_id": "party_list_14_3",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      34
+    ],
+    "missing_parties": [
+      "สร้างอนาคตไทย"
+    ],
+    "expected_total_votes": 99534,
+    "extracted_total_votes": 315084,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_14_4": {
+    "doc_id": "party_list_14_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 106381,
+    "extracted_total_votes": 106381,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_14_5": {
+    "doc_id": "party_list_14_5",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97187,
+    "extracted_total_votes": 70515,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_15_1": {
+    "doc_id": "party_list_15_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 4357,
+    "extracted_total_votes": 78306,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_15_2": {
+    "doc_id": "party_list_15_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78266,
+    "extracted_total_votes": 86447,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_16_1": {
+    "doc_id": "party_list_16_1",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      49,
+      50
+    ],
+    "missing_parties": [
+      "ฟิวชัน",
+      "สังคมประชาธิปไตยไทย"
+    ],
+    "expected_total_votes": 98815,
+    "extracted_total_votes": 130262,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_16_2": {
+    "doc_id": "party_list_16_2",
+    "expected_rows": 57,
+    "matched_rows": 54,
+    "missing_row_nums": [
+      39,
+      56,
+      57
+    ],
+    "missing_parties": [
+      "กรีน",
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 107859,
+    "extracted_total_votes": 107647,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_16_3": {
+    "doc_id": "party_list_16_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96662,
+    "extracted_total_votes": 96662,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_16_4": {
+    "doc_id": "party_list_16_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 110263,
+    "extracted_total_votes": 98860,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_17_1": {
+    "doc_id": "party_list_17_1",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      42,
+      57
+    ],
+    "missing_parties": [
+      "กล้าธรรม",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 114741,
+    "extracted_total_votes": 114572,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_18_1": {
+    "doc_id": "party_list_18_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84121,
+    "extracted_total_votes": 84112,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_18_2": {
+    "doc_id": "party_list_18_2",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      39,
+      40
+    ],
+    "missing_parties": [
+      "กรีน",
+      "ไทยธรรม"
+    ],
+    "expected_total_votes": 84197,
+    "extracted_total_votes": 57954,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_19_1": {
+    "doc_id": "party_list_19_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89500,
+    "extracted_total_votes": 89138,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_19_2": {
+    "doc_id": "party_list_19_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 97624,
+    "extracted_total_votes": 97258,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_19_3": {
+    "doc_id": "party_list_19_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 89827,
+    "extracted_total_votes": 89827,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_19_4": {
+    "doc_id": "party_list_19_4",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      40,
+      41
+    ],
+    "missing_parties": [
+      "ไทยธรรม",
+      "แผ่นดินธรรม"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 164977,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_20_1": {
+    "doc_id": "party_list_20_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 98214,
+    "extracted_total_votes": 98220,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_20_10": {
+    "doc_id": "party_list_20_10",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      45,
+      57
+    ],
+    "missing_parties": [
+      "เป็นธรรม",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 82021,
+    "extracted_total_votes": 81968,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_20_2": {
+    "doc_id": "party_list_20_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79159,
+    "extracted_total_votes": 79159,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_20_3": {
+    "doc_id": "party_list_20_3",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      45
+    ],
+    "missing_parties": [
+      "เป็นธรรม"
+    ],
+    "expected_total_votes": 91927,
+    "extracted_total_votes": 92397,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_20_4": {
+    "doc_id": "party_list_20_4",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      49,
+      57
+    ],
+    "missing_parties": [
+      "ไทยก้าวใหม่",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 80879,
+    "extracted_total_votes": 80629,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_20_5": {
+    "doc_id": "party_list_20_5",
+    "expected_rows": 57,
+    "matched_rows": 54,
+    "missing_row_nums": [
+      40,
+      41,
+      57
+    ],
+    "missing_parties": [
+      "ไทยธรรม",
+      "แผ่นดินธรรม",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 95056,
+    "extracted_total_votes": 94189,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_20_6": {
+    "doc_id": "party_list_20_6",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      45,
+      57
+    ],
+    "missing_parties": [
+      "เป็นธรรม",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 90677,
+    "extracted_total_votes": 90630,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_20_7": {
+    "doc_id": "party_list_20_7",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83989,
+    "extracted_total_votes": 84133,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_20_8": {
+    "doc_id": "party_list_20_8",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 3271,
+    "extracted_total_votes": 88316,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_20_9": {
+    "doc_id": "party_list_20_9",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      50,
+      57
+    ],
+    "missing_parties": [
+      "ประชาอาสาชาติ",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 65089,
+    "extracted_total_votes": 65067,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_21_1": {
+    "doc_id": "party_list_21_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 86337,
+    "extracted_total_votes": 95155,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_21_2": {
+    "doc_id": "party_list_21_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 77741,
+    "extracted_total_votes": 72838,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_21_3": {
+    "doc_id": "party_list_21_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 77652,
+    "extracted_total_votes": 155271,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_21_4": {
+    "doc_id": "party_list_21_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88462,
+    "extracted_total_votes": 88495,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_21_5": {
+    "doc_id": "party_list_21_5",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83541,
+    "extracted_total_votes": 83541,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_22_1": {
+    "doc_id": "party_list_22_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100429,
+    "extracted_total_votes": 100475,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_22_2": {
+    "doc_id": "party_list_22_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 91950,
+    "extracted_total_votes": 91950,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_22_3": {
+    "doc_id": "party_list_22_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 90597,
+    "extracted_total_votes": 90813,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_23_1": {
+    "doc_id": "party_list_23_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 114946,
+    "extracted_total_votes": 101441,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_24_1": {
+    "doc_id": "party_list_24_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 100617,
+    "extracted_total_votes": 107389,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_24_2": {
+    "doc_id": "party_list_24_2",
+    "expected_rows": 57,
+    "matched_rows": 54,
+    "missing_row_nums": [
+      17,
+      18,
+      57
+    ],
+    "missing_parties": [
+      "ไทยชนะ",
+      "พลังสังคมใหม่",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 105181,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_24_3": {
+    "doc_id": "party_list_24_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 94168,
+    "extracted_total_votes": 94586,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_24_4": {
+    "doc_id": "party_list_24_4",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      36
+    ],
+    "missing_parties": [
+      "ไทยพร้อม"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 111293,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_25_1": {
+    "doc_id": "party_list_25_1",
+    "expected_rows": 59,
+    "matched_rows": 59,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84899,
+    "extracted_total_votes": 84899,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_25_3": {
+    "doc_id": "party_list_25_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 84995,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_26_1": {
+    "doc_id": "party_list_26_1",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      16,
+      17
+    ],
+    "missing_parties": [
+      "พลังเพื่อไทย",
+      "ไทยชนะ"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 72306,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_26_2": {
+    "doc_id": "party_list_26_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79406,
+    "extracted_total_votes": 79406,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_27_1": {
+    "doc_id": "party_list_27_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 88432,
+    "extracted_total_votes": 88432,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_27_2": {
+    "doc_id": "party_list_27_2",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      39,
+      40
+    ],
+    "missing_parties": [
+      "กรีน",
+      "ไทยธรรม"
+    ],
+    "expected_total_votes": 89341,
+    "extracted_total_votes": 89341,
+    "total_match": true,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_27_3": {
+    "doc_id": "party_list_27_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92333,
+    "extracted_total_votes": 110183,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_30_1": {
+    "doc_id": "party_list_30_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83542,
+    "extracted_total_votes": 83542,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_30_10": {
+    "doc_id": "party_list_30_10",
+    "expected_rows": 56,
+    "matched_rows": 56,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 101587,
+    "extracted_total_votes": 100644,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_30_11": {
+    "doc_id": "party_list_30_11",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 84866,
+    "extracted_total_votes": 84723,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_30_12": {
+    "doc_id": "party_list_30_12",
+    "expected_rows": 57,
+    "matched_rows": 54,
+    "missing_row_nums": [
+      30,
+      31,
+      33
+    ],
+    "missing_parties": [
+      "แรงงานสร้างชาติ",
+      "ประชากรไทย",
+      "ประชาชาติ"
+    ],
+    "expected_total_votes": 85430,
+    "extracted_total_votes": 79798,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_30_13": {
+    "doc_id": "party_list_30_13",
+    "expected_rows": 56,
+    "matched_rows": 53,
+    "missing_row_nums": [
+      38,
+      40,
+      41
+    ],
+    "missing_parties": [
+      "กริน",
+      "แผ่นดินธรรม",
+      "กสิกรธรรม"
+    ],
+    "expected_total_votes": 69798,
+    "extracted_total_votes": 50475,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_30_14": {
+    "doc_id": "party_list_30_14",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 75906,
+    "extracted_total_votes": 75845,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_30_15": {
+    "doc_id": "party_list_30_15",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      37
+    ],
+    "missing_parties": [
+      "ภูมิใจไทย"
+    ],
+    "expected_total_votes": 92072,
+    "extracted_total_votes": 114951,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_30_16": {
+    "doc_id": "party_list_30_16",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      50,
+      57
+    ],
+    "missing_parties": [
+      "ประชาอาสาชาติ",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 81924,
+    "extracted_total_votes": 82032,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_30_2": {
+    "doc_id": "party_list_30_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 96874,
+    "extracted_total_votes": 96874,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_30_3": {
+    "doc_id": "party_list_30_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 102530,
+    "extracted_total_votes": 102530,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_30_4": {
+    "doc_id": "party_list_30_4",
+    "expected_rows": 58,
+    "matched_rows": 58,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85195,
+    "extracted_total_votes": 85195,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_30_5": {
+    "doc_id": "party_list_30_5",
+    "expected_rows": 57,
+    "matched_rows": 31,
+    "missing_row_nums": [
+      6,
+      7,
+      9,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      19,
+      20,
+      21,
+      22,
+      23,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      33,
+      34,
+      37,
+      39,
+      40,
+      41
+    ],
+    "missing_parties": [
+      "รวมไทยสร้างชาติ",
+      "พลวัต",
+      "เพื่อไทย",
+      "เศรษฐกิจ",
+      "เสรีรวมไทย",
+      "ท้องที่ไทย",
+      "อนาคตไทย",
+      "พลังเพื่อไทย",
+      "ไทยชนะ",
+      "สังคมประชาธิปไตยไทย",
+      "ฟิวชัน",
+      "ไทรวมพลัง",
+      "ก้าวอิสระ",
+      "ปวงชนไทย",
+      "คลองไทย",
+      "ประชาธิปัตย์",
+      "ไทยก้าวหน้า",
+      "ไทยภักดี",
+      "แรงงานสร้างชาติ",
+      "ประชากรไทย",
+      "ประชาชาติ",
+      "สร้างอนาคตไทย",
+      "ภูมิใจไทย",
+      "กรีน",
+      "ไทยธรรม",
+      "แผ่นดินธรรม"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 76289,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_30_6": {
+    "doc_id": "party_list_30_6",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79241,
+    "extracted_total_votes": 80295,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_30_7": {
+    "doc_id": "party_list_30_7",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 75590,
+    "extracted_total_votes": 75590,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_30_8": {
+    "doc_id": "party_list_30_8",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      57
+    ],
+    "missing_parties": [
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 4520,
+    "extracted_total_votes": 80694,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_30_9": {
+    "doc_id": "party_list_30_9",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 85355,
+    "extracted_total_votes": 85355,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_31_1": {
+    "doc_id": "party_list_31_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 80645,
+    "extracted_total_votes": 80645,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_31_10": {
+    "doc_id": "party_list_31_10",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 69607,
+    "extracted_total_votes": 69515,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_31_2": {
+    "doc_id": "party_list_31_2",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 75773,
+    "extracted_total_votes": 74596,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_31_3": {
+    "doc_id": "party_list_31_3",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      25
+    ],
+    "missing_parties": [
+      "เพื่อชีวิตใหม่"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 72821,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_31_4": {
+    "doc_id": "party_list_31_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 69590,
+    "extracted_total_votes": 69590,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_31_5": {
+    "doc_id": "party_list_31_5",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 76953,
+    "extracted_total_votes": 76953,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_31_6": {
+    "doc_id": "party_list_31_6",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      41,
+      57
+    ],
+    "missing_parties": [
+      "แผ่นดินธรรม",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 74605,
+    "extracted_total_votes": 74465,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_31_7": {
+    "doc_id": "party_list_31_7",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      33,
+      34
+    ],
+    "missing_parties": [
+      "ประชาชาติ",
+      "สร้างอนาคตไทย"
+    ],
+    "expected_total_votes": 74639,
+    "extracted_total_votes": 74632,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_31_8": {
+    "doc_id": "party_list_31_8",
+    "expected_rows": 57,
+    "matched_rows": 53,
+    "missing_row_nums": [
+      32,
+      33,
+      56,
+      57
+    ],
+    "missing_parties": [
+      "ครูไทยเพื่อประชาชน",
+      "ประชาชาติ",
+      "เพื่อบ้านเมือง",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 78587,
+    "extracted_total_votes": 75969,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_31_9": {
+    "doc_id": "party_list_31_9",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 73596,
+    "extracted_total_votes": 72303,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_32_1": {
+    "doc_id": "party_list_32_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 87126,
+    "extracted_total_votes": 87126,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_32_2": {
+    "doc_id": "party_list_32_2",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      39,
+      57
+    ],
+    "missing_parties": [
+      "กรีน",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 88367,
+    "extracted_total_votes": 87996,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_32_3": {
+    "doc_id": "party_list_32_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78837,
+    "extracted_total_votes": 78899,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_32_4": {
+    "doc_id": "party_list_32_4",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 79794,
+    "extracted_total_votes": 79996,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_32_5": {
+    "doc_id": "party_list_32_5",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      43,
+      57
+    ],
+    "missing_parties": [
+      "พลังประชารัฐ",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 77102,
+    "extracted_total_votes": 76592,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_32_6": {
+    "doc_id": "party_list_32_6",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 75723,
+    "extracted_total_votes": 75723,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_32_7": {
+    "doc_id": "party_list_32_7",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      49,
+      57
+    ],
+    "missing_parties": [
+      "ไทยก้าวใหม่",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 85211,
+    "extracted_total_votes": 84879,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_32_8": {
+    "doc_id": "party_list_32_8",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      11,
+      53
+    ],
+    "missing_parties": [
+      "เศรษฐกิจ",
+      "ไทยพิทักษ์ธรรม"
+    ],
+    "expected_total_votes": null,
+    "extracted_total_votes": 77453,
+    "total_match": null,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_33_1": {
+    "doc_id": "party_list_33_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 92667,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_33_2": {
+    "doc_id": "party_list_33_2",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      57
+    ],
+    "missing_parties": [
+      "เพื่อบ้านเมือง"
+    ],
+    "expected_total_votes": 79352,
+    "extracted_total_votes": 79523,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_33_3": {
+    "doc_id": "party_list_33_3",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 75063,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_33_4": {
+    "doc_id": "party_list_33_4",
+    "expected_rows": 57,
+    "matched_rows": 56,
+    "missing_row_nums": [
+      37
+    ],
+    "missing_parties": [
+      "ภูมิใจไทย"
+    ],
+    "expected_total_votes": 76539,
+    "extracted_total_votes": 103369,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_33_5": {
+    "doc_id": "party_list_33_5",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      29,
+      30
+    ],
+    "missing_parties": [
+      "ไทยภักดี",
+      "แรงงานสร้างชาติ"
+    ],
+    "expected_total_votes": 78316,
+    "extracted_total_votes": 234453,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_33_6": {
+    "doc_id": "party_list_33_6",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 4905,
+    "extracted_total_votes": 77967,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_33_7": {
+    "doc_id": "party_list_33_7",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78925,
+    "extracted_total_votes": 78854,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_33_8": {
+    "doc_id": "party_list_33_8",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 83511,
+    "extracted_total_votes": 84164,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  },
+  "party_list_33_9": {
+    "doc_id": "party_list_33_9",
+    "expected_rows": 57,
+    "matched_rows": 55,
+    "missing_row_nums": [
+      35,
+      57
+    ],
+    "missing_parties": [
+      "รักชาติ",
+      "พลังไทยรักชาติ"
+    ],
+    "expected_total_votes": 87485,
+    "extracted_total_votes": 105999,
+    "total_match": false,
+    "status": "needs_review_missing_rows"
+  },
+  "party_list_34_1": {
+    "doc_id": "party_list_34_1",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 92206,
+    "extracted_total_votes": 92206,
+    "total_match": true,
+    "status": "ok"
+  },
+  "party_list_34_10": {
+    "doc_id": "party_list_34_10",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": null,
+    "extracted_total_votes": 86970,
+    "total_match": null,
+    "status": "warning_missing_page1_total"
+  },
+  "party_list_34_11": {
+    "doc_id": "party_list_34_11",
+    "expected_rows": 57,
+    "matched_rows": 57,
+    "missing_row_nums": [],
+    "missing_parties": [],
+    "expected_total_votes": 78793,
+    "extracted_total_votes": 78524,
+    "total_match": false,
+    "status": "needs_review_total_mismatch"
+  }
+}
