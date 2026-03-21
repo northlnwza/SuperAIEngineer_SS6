@@ -1,10 +1,14 @@
 from scripts.transform import (
-    thai_to_arabic,
+    thai_to_arabic_int,
     only_thai_numbers, 
     html_to_dataframe, 
     delete_columns_from_dataframe,
-    apply_to_column
+    delete_null_rows_from_dataframe,
+    apply_to_column,
+    update_submission_data
 )
+
+import pandas as pd
 
 __REAL_TEXT_FROM_OCR_A_FILE_PARTY_LIST = """
 ส.ส. ๖/๑ (บช)
@@ -20,16 +24,24 @@ PageNumber: - ๒ -
 """
 
 def main():
-    df = html_to_dataframe(__REAL_TEXT_FROM_OCR_A_FILE_PARTY_LIST)
-    df = delete_columns_from_dataframe(df, 0, 1)
+    df = html_to_dataframe(__REAL_TEXT_FROM_OCR_A_FILE_CONSITUENCY_LIST)
+    submission_df = pd.read_csv("submission.csv")
 
-    # as we can see, the voted numbers are in thai with thai text in parentheses,
-    # so we need to filter out the thai numbers and convert them to arabic numbers
-    # actually, pandas has a built-in function to apply or filter but i just want to show off my skills in writing a custom function to do that :)
-    # we will act the pandas is just a dataframe and we will apply the function to the last column, which is the votes column
+    document_type = "constituency"
+    reference_document = "constituency_10_29" 
+
+    if document_type == "party_list":
+        df = delete_columns_from_dataframe(df, 0, 1)
+
+    elif document_type == "constituency":
+        df = delete_columns_from_dataframe(df, 0, 2)
+
+    df = delete_null_rows_from_dataframe(df)
     df = apply_to_column(df=df, col_index=-1, func=only_thai_numbers)
-    df = apply_to_column(df=df, col_index=-1, func=thai_to_arabic)
-    print(df)
+    df = apply_to_column(df=df, col_index=-1, func=thai_to_arabic_int)
+
+    submission_df = update_submission_data(submission_df, df, reference_document)
+
 
 
 if __name__ == "__main__":
