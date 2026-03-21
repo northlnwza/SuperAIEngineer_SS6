@@ -1,0 +1,2 @@
+# no commit the folder that contains no_commit_ in its name, which is the folder that contains the files that we don't want to commit, such as the files that contain the real text from OCR or
+no_commit_*
