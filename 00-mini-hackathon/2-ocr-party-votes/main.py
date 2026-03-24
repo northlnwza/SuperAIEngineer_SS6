@@ -1,7 +1,7 @@
-import os
-import json
-import logging
 from dotenv import load_dotenv
+import logging
+import json
+import os
 
 from scripts.file import ( 
     list_png_files, filter_valid_files, map_parse, 
