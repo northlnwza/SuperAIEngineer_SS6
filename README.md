@@ -20,5 +20,5 @@ A comprehensive learning tracker for the Super AI Engineer SS6 bootcamp, documen
 | 12 | Introduction to NLP [Fundamental] | ⏳ |
 | 13 | AI Ethics [Fundamental] | ⏳ |
 | 14 | Retrieval-Augmented Generation: RAG | ⏳ |
-| 15 | Design Thinking for AI Engineer | ⏳ |
-| 16 | AI for Digital Business | ⏳ |
+| 15 | Design Thinking for AI Engineer | ✅ |
+| 16 | AI for Digital Business | ✅ |
