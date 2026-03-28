@@ -10,7 +10,7 @@ MiniHack1 : https://colab.research.google.com/drive/1eeUgyqclFp4V61MqWtURsAgE_bE
 |---|-------|--------|
 | 1 | Python Programming [Fundamental] | ✅ |
 | 2 | Google Colab [Fundamental] | ✅|
-| 3 | Linux [Fundamental] | ⏳ |
+| 3 | Linux [Fundamental] | ✅ |
 | 4 | GitHub [Fundamental] |✅|
 | 5 | Mathematics for AI [Fundamental] |✅|
 | 6 | Data Science [Fundamental] |✅|
