@@ -20,49 +20,109 @@ class KnowledgeBase:
     """Knowledge base with TF-IDF based retrieval."""
     
     PRODUCT_ALIASES = {
-        # Watch
-        'watch s3 ultra': ['WK-SW-001', 'วงโคจร watch s3 ultra'],
+        # Watch - วงโคจร
+        'watch s3 ultra': ['WK-SW-001', 'วงโคจร watch s3 ultra', 'วงโคจร'],
         's3 ultra': ['WK-SW-001', 'วงโคจร watch s3 ultra'],
-        'watch s3 pro': ['WK-SW-002'],
-        'watch s3': ['WK-SW-003'],
-        # Phones
-        'x9 pro max': ['SF-SP-001', 'สายฟ้า โฟน x9 pro max'],
+        'watch s3 pro': ['WK-SW-002', 'วงโคจร watch s3 pro'],
+        's3 pro': ['WK-SW-002'],
+        'watch s3': ['WK-SW-003', 'วงโคจร watch s3'],
+        'watch lite': ['WK-SW-004'],
+        'watch se': ['WK-SW-005'],
+        'watch kids': ['WK-SW-006'],
+        'วงโคจร': ['WK-SW'],
+        # Phones - สายฟ้า
+        'x9 pro max': ['SF-SP-001', 'สายฟ้า โฟน x9 pro max', 'สายฟ้า'],
         'x9 pro': ['SF-SP-002', 'สายฟ้า โฟน x9 pro'],
         'x9': ['SF-SP-003', 'สายฟ้า โฟน x9'],
-        'x9 fe': ['SF-SP-010'],
-        'rugged r1': ['SF-SP-015', 'สายฟ้า โฟน rugged r1'],
+        'x9 fe': ['SF-SP-010', 'สายฟ้า โฟน x9 fe'],
+        'x8 pro': ['SF-SP-004'],
+        'x8': ['SF-SP-005'],
+        'x7 pro': ['SF-SP-006'],
+        'x7': ['SF-SP-007'],
+        'x5': ['SF-SP-008', 'SF-SP-009'],
+        'rugged r1': ['SF-SP-015', 'สายฟ้า โฟน rugged r1', 'สายฟ้า rugged'],
         'duopad': ['SF-SP-011', 'สายฟ้า duopad'],
-        # Laptops
+        'สายฟ้า': ['SF-SP'],
+        # Laptops - ดาวเหนือ / NovaTech
+        'airbook 15 pro': ['DN-LT-001', 'ดาวเหนือ airbook 15 pro'],
+        'airbook 15': ['DN-LT-001'],
+        'airbook 14 pro': ['DN-LT-002', 'ดาวเหนือ airbook 14 pro'],
         'airbook 14': ['DN-LT-002', 'DN-LT-003', 'ดาวเหนือ airbook 14'],
-        'airbook 15': ['DN-LT-001', 'ดาวเหนือ airbook 15'],
-        'stormbook g7': ['DN-LT-007'],
-        'stormbook g5': ['DN-LT-008', 'DN-LT-009'],
-        'creatorbook 16': ['DN-LT-014'],
-        'slimbook 14': ['NT-LT-001', 'novatech slimbook'],
-        # Audio
+        'stormbook g7 pro': ['DN-LT-007'],
+        'stormbook g7': ['DN-LT-007', 'ดาวเหนือ stormbook g7'],
+        'stormbook g5 pro': ['DN-LT-008'],
+        'stormbook g5': ['DN-LT-008', 'DN-LT-009', 'ดาวเหนือ stormbook g5'],
+        'stormbook': ['DN-LT-007', 'DN-LT-008', 'DN-LT-009'],
+        'creatorbook 16 pro': ['DN-LT-014'],
+        'creatorbook 16': ['DN-LT-014', 'ดาวเหนือ creatorbook 16'],
+        'workstation 17': ['DN-LT-011', 'DN-LT-012'],
+        'slimbook 14': ['NT-LT-001', 'novatech slimbook 14'],
+        'slimbook 15': ['NT-LT-002', 'novatech slimbook 15'],
+        'powerbook 17': ['NT-LT-003'],
+        'ดาวเหนือ': ['DN-LT'],
+        'novatech': ['NT-LT', 'NT-EB'],
+        # Audio - คลื่นเสียง
         'headpro x1': ['KS-HP-001', 'KS-HP-002', 'คลื่นเสียง เฮดโปร x1'],
+        'headpro x1 max': ['KS-HP-001'],
+        'headpro x1 pro': ['KS-HP-002'],
+        'headon 700': ['KS-HP-003', 'คลื่นเสียง เฮดออน 700'],
+        'headon 500': ['KS-HP-004', 'คลื่นเสียง เฮดออน 500'],
         'headon 300': ['KS-HP-005', 'KS-HP-006', 'คลื่นเสียง เฮดออน 300'],
-        'headon 500': ['KS-HP-004'],
-        'headon 700': ['KS-HP-003'],
+        'headon 300 wireless': ['KS-HP-005'],
+        'headon 300 wired': ['KS-HP-006'],
         'buds z5 pro': ['KS-EB-001', 'คลื่นเสียง บัดส์ z5 pro'],
-        'buds z5': ['KS-EB-002'],
+        'buds z5': ['KS-EB-002', 'คลื่นเสียง บัดส์ z5'],
+        'buds z3 pro': ['KS-EB-003'],
+        'sport x': ['KS-EB-004', 'คลื่นเสียง sport x'],
+        'sport lite': ['KS-EB-005', 'คลื่นเสียง sport lite'],
         'novabuds pro': ['NT-EB-001', 'novatech novabuds pro'],
-        'sport x': ['KS-EB-004'],
-        'sport lite': ['KS-EB-005'],
-        # Tablets
-        'tab s9 pro': ['SF-TB-001'],
+        'novabuds lite': ['NT-EB-002'],
+        'คลื่นเสียง': ['KS-HP', 'KS-EB', 'KS-SK'],
+        # Tablets - สายฟ้า
+        'tab s9 pro': ['SF-TB-001', 'สายฟ้า แท็บ s9 pro'],
+        'tab s9': ['SF-TB-002', 'สายฟ้า แท็บ s9'],
+        'tab a5 pro': ['SF-TB-003'],
         'tab a5': ['SF-TB-003', 'SF-TB-004', 'สายฟ้า แท็บ a5'],
-        'tab draw pro': ['SF-TB-007'],
-        # Accessories
-        'saifah pen': ['JC-CS-006', 'ปากกา saifah pen gen 2'],
-        'qipad 15': ['JC-CH-005', 'จุดเชื่อม qipad 15'],
-        'chargepad 15w': ['PG-CH-001', 'พัลส์เกียร์ chargepad'],
+        'tab a5 wifi': ['SF-TB-004'],
+        'tab e3 pro': ['SF-TB-005'],
+        'tab e3': ['SF-TB-006'],
+        'tab draw pro': ['SF-TB-007', 'สายฟ้า แท็บ draw pro'],
+        'tab kids': ['SF-TB-008'],
+        # Accessories - จุดเชื่อม / พัลส์เกียร์ / ArcWave
+        'saifah pen gen 2': ['JC-CS-006', 'ปากกา saifah pen gen 2'],
+        'saifah pen': ['JC-CS-006', 'ปากกา saifah pen'],
+        'ปากกา saifah': ['JC-CS-006'],
+        'qipad 15w': ['JC-CH-005', 'จุดเชื่อม qipad 15w'],
+        'qipad 15': ['JC-CH-005'],
+        'qipad': ['JC-CH-005', 'JC-CH-006'],
+        'chargepad 15w': ['PG-CH-001', 'พัลส์เกียร์ chargepad 15w'],
+        'chargepad': ['PG-CH-001', 'PG-CH-002'],
+        'soundbar 500': ['KS-SK-001'],
         'soundbar 300': ['KS-SK-002'],
-        'soundpillar 300': ['AW-SK-001'],
-        'proview 27': ['AW-MN-001', 'arcwave proview'],
-        'powerbank 30000': ['PG-PB-002'],
-        'dock pro': ['JC-HB-003'],
-        'hub 7-in-1': ['JC-HB-001'],
+        'soundbar 200': ['KS-SK-003'],
+        'soundpillar 300': ['AW-SK-001', 'arcwave soundpillar'],
+        'proview 32': ['AW-MN-002'],
+        'proview 27 4k': ['AW-MN-001', 'arcwave proview 27'],
+        'proview 27': ['AW-MN-001', 'AW-MN-003'],
+        'ultraview 34': ['AW-MN-004'],
+        'powerbank 30000': ['PG-PB-002', 'พัลส์เกียร์ powerbank 30000'],
+        'powerbank 20000': ['PG-PB-001'],
+        'powerbank 10000': ['PG-PB-003'],
+        'dock pro': ['JC-HB-003', 'จุดเชื่อม dock pro'],
+        'hub 7-in-1': ['JC-HB-001', 'จุดเชื่อม hub 7-in-1'],
+        'hub 5-in-1': ['JC-HB-002'],
+        'usb-c adapter': ['JC-HB-004'],
+        'จุดเชื่อม': ['JC-HB', 'JC-CH', 'JC-CS'],
+        'พัลส์เกียร์': ['PG-CH', 'PG-PB', 'PG-AC'],
+        'arcwave': ['AW-MN', 'AW-SK'],
+        # Smart Home
+        'smart hub': ['SH-HB-001'],
+        'smart bulb': ['SH-LT-001', 'SH-LT-002'],
+        'smart plug': ['SH-PW-001'],
+        'smart switch': ['SH-PW-002'],
+        # Camera
+        'actioncam pro': ['AC-CM-001'],
+        'actioncam lite': ['AC-CM-002'],
     }
     
     def __init__(self, kb_path: str):
@@ -147,13 +207,17 @@ class KnowledgeBase:
             
             if folder == 'policies':
                 policy_kw = ['คืน', 'ประกัน', 'ส่ง', 'ยกเลิก', 'จ่าย', 'ชำระ', 'สมาชิก', 'point', 'แต้ม', 
-                             'on-site', 'warranty', 'care+', 'เคลม']
+                             'on-site', 'warranty', 'care+', 'เคลม', 'บริการหลังการขาย', 'เปลี่ยน', 
+                             'return', 'refund', 'shipping', 'membership', 'คุ้มครอง', 'ความเสียหาย',
+                             'น้ำเข้า', 'อุบัติเหตุ', 'สมัครสมาชิก', 'แลกคะแนน', 'ฟรีค่าจัดส่ง']
                 if any(kw in query_lower for kw in policy_kw):
                     score *= 2.0
             
             if folder == 'store_info':
                 store_kw = ['ร้าน', 'สาขา', 'บริการ', 'สมัคร', 'เทิร์น', 'trade', 'crypto', 'bitcoin', 
-                            'สั่ง', 'ชิ้น', 'รายการ', 'จัดส่ง', 'ต่างประเทศ']
+                            'สั่ง', 'ชิ้น', 'รายการ', 'จัดส่ง', 'ต่างประเทศ', 'เครดิต', 'บัตรเครดิต',
+                            'ผ่อน', 'installment', 'ติดต่อ', 'line', 'facebook', 'รับประกัน',
+                            'faq', 'คำถาม', 'วิธีสั่ง', 'payment', 'cryptocurrency']
                 if any(kw in query_lower for kw in store_kw):
                     score *= 2.0
             
