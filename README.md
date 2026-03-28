@@ -19,7 +19,7 @@ MiniHack1 : https://colab.research.google.com/drive/1eeUgyqclFp4V61MqWtURsAgE_bE
 | 9 | Neural Network and Deep Learning [Fundamental] | ⏳ |
 | 10 | Image Processing [Fundamental] | ✅ |
 | 11 | Computer Vision [Fundamental] | ⏳ |
-| 12 | Introduction to NLP [Fundamental] | ⏳ |
+| 12 | Introduction to NLP [Fundamental] | ✅ |
 | 13 | AI Ethics [Fundamental] | ✅ |
 | 14 | Retrieval-Augmented Generation: RAG | ✅ |
 | 15 | Design Thinking for AI Engineer | ✅ |
